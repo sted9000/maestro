@@ -1,0 +1,4 @@
+appId: com.example.maestro
+---
+- launchApp
+- assertVisible: { text: "Hello Android!"}
